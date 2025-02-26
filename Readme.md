@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Balasubramanyam D B</h1>
 <h3 align="center">Software developer passionate about solving problems through code</h3>
 
-- 🌱 I’m currently learning **Spring, GraphQL, ML**
+- 🌱 I’m currently learning **Flask, ML, MongoDB**
 
 - 👯 I’m looking to collaborate on **Python, JavaScript, React, SQL**
 
